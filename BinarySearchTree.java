@@ -24,7 +24,6 @@ class BinarySearchTree {
 
     public void inOrderTraversal() {
         this.inOrderTraversal(this.root);
-        System.out.print("\b\b");
         System.out.println();
     }
 
